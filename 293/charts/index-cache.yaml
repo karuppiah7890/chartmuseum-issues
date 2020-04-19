@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dummy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2019-12-06T20:41:58.855468038+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d84f7b1369283c18a9dde9ee8b784c4b2ee1b7c1e53a9ce12bfaca04129e2f11
+    name: dummy
+    urls:
+    - charts/dummy-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-06T20:43:03+05:30"
+serverInfo: {}
